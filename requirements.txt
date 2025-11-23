@@ -1,0 +1,11 @@
+langchain 
+langgraph
+langsmith
+requests 
+google-ai-generativelanguage 
+langchain-community
+python-dotenv 
+faiss-cpu 
+pypdf 
+streamlit 
+sentence-transformers
